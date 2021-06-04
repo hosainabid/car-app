@@ -33,6 +33,12 @@ const styles = StyleSheet.create({
     position: 'absolute',
     bottom: 50,
     width: '100%',
+  },
+  
+  buttonsContainer: {
+    position: 'absolute',
+    bottom: 50,
+    width: '100%',
   }
 });
 
