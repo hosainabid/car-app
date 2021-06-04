@@ -4,7 +4,7 @@ Here you find latest model of tesla cars and their price.
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/hXkjDdb/car2.png)
+![App Screenshot](https://i.ibb.co/hXkjDdb/car2.png , https://i.ibb.co/6mq1hKs/car3.png)
 
 
 
@@ -17,8 +17,8 @@ React Native
 
 ## TEAM91
 
-#### Koushik (Project Manager)
+#### Md Abid Hossain (Project Manager)
 
 #### MD Razikul Islam (Front-End Engineer)
 
-#### Rezaul Karim Reza (Front-End Engineer)
+#### RK Rezaul Karim(Analyst and Code Tester)
