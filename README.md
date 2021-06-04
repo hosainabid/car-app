@@ -11,6 +11,8 @@ Here you find latest model of tesla cars and their price.
 ## Tech Stack
 
 React Native
+Expo
+Jirs
 
 
 # Contributors
