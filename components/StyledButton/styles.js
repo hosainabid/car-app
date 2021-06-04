@@ -15,6 +15,12 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontWeight: '500',
     textTransform: 'uppercase',
+  },
+
+  buttonsContainer: {
+    position: 'absolute',
+    bottom: 50,
+    width: '100%',
   }
 });
 
